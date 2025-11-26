@@ -65,7 +65,3 @@ pandas
 - Part 2 includes hyperparameter search experiments
 - Part 3 compares different CNN architectures with regularization techniques
 
-## 📄 License
-
-This project is for educational purposes (INT305 Assignment 2).
-
